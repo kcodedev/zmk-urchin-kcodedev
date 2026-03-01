@@ -116,7 +116,7 @@
 			>;
 		};
 
-		// Main modifiers and arrow keys
+		// Main modifiers and arrow keys, EXT layer
 		ext_layer {
 			label = "Mods";
 			bindings = <
